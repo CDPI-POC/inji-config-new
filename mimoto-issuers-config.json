@@ -3,7 +3,7 @@
       {
       "issuer_id": "NFRA",
       "credential_issuer": "National Farmers Registry Authority (NFRA)",
-      "credential_issuer_host": "https://${mosip.injicertify.mock.host}",
+      "credential_issuer_host": "http://inji-certify.inji-certify.svc.cluster.local",
       "display": [
         {
           "name": "National Farmers Registry Authority (NFRA)",
